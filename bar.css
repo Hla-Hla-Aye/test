@@ -1,0 +1,32 @@
+
+#aa{
+    border-radius:3px ;
+    border-style: groove;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+#bb{
+    display: inline-flex; 
+}
+.cc{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+#dd{
+    border-radius: 3px;
+    border-style: groove;
+}
+#ee{
+    border-radius: 3px;
+    border-style: groove;
+}
+#ff{
+    border-radius: 2px;
+     border-style: groove; 
+     margin-top: 10px;
+     text-align: center;
+
+}
+
